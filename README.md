@@ -112,9 +112,12 @@ This project serves as a practical demonstration of building end-to-end recommen
 
 If you're an academic reviewer, feel free to contact me for discussions on enhancements or collaborations.
 
+
 ## About the Author
 
-[Your Name] is a [your degree/program] student with interests in machine learning, data science, and AI applications. This project was developed as part of [context, e.g., self-study or coursework]. For more details, visit [your LinkedIn/GitHub profile].
+Kourosh Asadi is a 3rd-semester Bachelor's student in Computer Engineering at Tehran Azad university south branch. His primary interests include machine learning, data science, and artificial intelligence applications, with a focus on recommender systems and practical implementations of ML algorithms.
+
+This movie recommendation system project was developed as part of self-study to deepen understanding of collaborative and content-based filtering techniques. It demonstrates hands-on experience with data preprocessing, feature engineering, and building end-to-end ML pipelines using Python.
 
 ## References
 
@@ -124,4 +127,4 @@ If you're an academic reviewer, feel free to contact me for discussions on enhan
 
 ---
 
-This README is licensed under [MIT License](LICENSE). For questions, open an issue or email [your.email@example.com].
+This README is licensed under [MIT License](LICENSE). For questions, open an issue or email Kouroshasadi244@gmail.com
