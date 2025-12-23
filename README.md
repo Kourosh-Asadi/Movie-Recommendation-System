@@ -4,7 +4,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-1.5-green?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24-blue?logo=numpy&logoColor=white)](https://numpy.org/)
 
-This repository contains a Jupyter Notebook implementation of a movie recommendation system using collaborative filtering and content-based filtering techniques. The project demonstrates data preprocessing, feature engineering, and recommendation algorithms applied to real-world movie rating data. It is designed to showcase skills in machine learning, data analysis, and Python programming, suitable for academic and research purposes.
 
 ## Project Overview
 
